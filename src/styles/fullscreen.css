@@ -104,6 +104,13 @@ header {
     background-color: transparent;
     outline-style: none;
 }
+.nav-search .btn-search img {
+width: 100%;
+max-width: 3rem;
+background-color: transparent;
+border-radius: 50%;
+}
+
 
 /* tarjetas Pokemon */
 
